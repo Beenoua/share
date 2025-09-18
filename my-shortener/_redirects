@@ -1,1 +1,11 @@
+قواعد إعادة التوجيه لـ Netlify
+الصيغة: /الرمز-القصير الرابط-الطويل-الكامل 301
+--- روابط الحملات التسويقية ---
+مثال لاختبارك الحالي مع Clarity
+/test-clarity   https://www.google.com/search?q=https://demo.jaouadouarh.com/%3Futm_source%3Dclarity_testing%26utm_medium%3Dmanual_test%26utm_campaign%3Dhuman_behavior_simulation   301
+
+مثال لحملة مستقبلية على فيسبوك
+/promo-ramadan   https://www.google.com/search?q=https://demo.jaouadouarh.com/%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dpromo_ramadan   301
+
+رابط حملة Gmail
 /DR-CHAMA-EL-MANJRA-SITE   https://demo.jaouadouarh.com/?lang=fr&utm_source=gmail&utm_medium=CTR&utm_campaign=markreting&utm_id=1901&utm_term=dr-chama-el-manjra&utm_content=builded-site&recipient=DOCTOR-CHAMA-1   301
