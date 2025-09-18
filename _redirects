@@ -1,0 +1,8 @@
+# قواعد إعادة التوجيه لـ Netlify
+# الصيغة: /الرمز-القصير   الرابط-الطويل-المباشر   301
+
+/test-clarity   [https://demo.jaouadouarh.com/?utm_source=clarity_testing&utm_medium=manual_test&utm_campaign=human_behavior_simulation](https://demo.jaouadouarh.com/?utm_source=clarity_testing&utm_medium=manual_test&utm_campaign=human_behavior_simulation)   301
+
+/promo-ramadan   [https://demo.jaouadouarh.com/?utm_source=facebook&utm_medium=social&utm_campaign=promo_ramadan](https://demo.jaouadouarh.com/?utm_source=facebook&utm_medium=social&utm_campaign=promo_ramadan)   301
+
+/DR-CHAMA-EL-MANJRA-SITE   [https://demo.jaouadouarh.com/?lang=fr&utm_source=gmail&utm_medium=CTR&utm_campaign=markreting&utm_id=1901&utm_term=dr-chama-el-manjra&utm_content=builded-site&recipient=DOCTOR-CHAMA-1](https://demo.jaouadouarh.com/?lang=fr&utm_source=gmail&utm_medium=CTR&utm_campaign=markreting&utm_id=1901&utm_term=dr-chama-el-manjra&utm_content=builded-site&recipient=DOCTOR-CHAMA-1)   301
