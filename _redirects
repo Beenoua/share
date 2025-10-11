@@ -10,6 +10,8 @@ Netlify Redirect Rules
 /dr-el-manjra-chama-gastro  https://demo.jaouadouarh.com/?lang=fr&utm_source=whatsapp&utm_medium=CTR&utm_campaign=markreting&utm_id=1901&utm_term=dr-chama-el-manjra&utm_content=builded-site&recipient=DOCTOR-CHAMA-gastro-last   301
 /view  https://demo.jaouadouarh.com/?utm_source=portfolio&utm_medium=site-project&utm_campaign=project-tracking-1   301
 /portfolio  https://portfolio.jaouadouarh.com/?utm_source=email&utm_medium=job-application&utm_campaign=farah-ounacer   301
+/offre  https://portfolio.jaouadouarh.com/?utm_source=Growth-Hacker-Team&utm_medium=Google-Forms&utm_campaign=Job-Offer&utm_term=Test-Submeting   301
+
 
 
 
