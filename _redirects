@@ -11,6 +11,7 @@ Netlify Redirect Rules
 /view  https://demo.jaouadouarh.com/?utm_source=portfolio&utm_medium=site-project&utm_campaign=project-tracking-1   301
 /portfolio  https://portfolio.jaouadouarh.com/?utm_source=email&utm_medium=job-application&utm_campaign=farah-ounacer   301
 /offre  https://portfolio.jaouadouarh.com/?utm_source=Growth-Hacker-Team&utm_medium=Google-Forms&utm_campaign=Job-Offer&utm_term=Test-Submeting   301
+/marketing  https://smooth-sleep.luxalry.com?utmSource=newsletter&utmMedium=email&utmCampaign=sale_2025&utmId=112&utmTerm=smooth_sleep&utmContent=landing_page_offre   301
 
 
 
